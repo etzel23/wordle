@@ -28,9 +28,10 @@
       palabra = $page.data.palabras[Math.floor(Math.random() * $page.data.palabras.length)];
       palabra = palabra.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
       palabra = palabra.toLowerCase();
-
+      console.log("Palabra para poder ganar:", palabra);
       // Convertir la cadena a un arreglo de caracteres
       palabra = palabra.split('');
+      
     }
 
     $: if(teclaV){
