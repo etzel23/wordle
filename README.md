@@ -1,6 +1,6 @@
 # Clonar repositorio
 
-Para clonar el repositorio del proyecto Entre particulares puedes hacerlo por SSH o HTTPS
+Para clonar el repositorio del proyecto de mi prueba técnica Wordle puedes hacerlo por SSH o HTTPS
 
 ## Instalar proyecto
 
